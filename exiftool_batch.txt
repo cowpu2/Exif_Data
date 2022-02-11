@@ -1,0 +1,10 @@
+c:\Proctor_files\exiftool-11.50\exiftool.exe -csv -common -r
+source folder
+destination file.csv
+
+
+Batch file for exiftool
+
+
+command line is this:
+ c:\windows\exiftool.exe -csv -common -r G:\Castilleja > Castilleja.csv
