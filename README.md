@@ -1,11 +1,7 @@
----
-title: "Editing EXIF data in photos with R and ExifTool"
-author: "Mike Proctor"
-date: "2/7/2022"
-output: html_document
-bibliography: pkg-refs.bib
-nocite: '@*'
----
+
+
+# Editing EXIF data in photos with R and ExifTool
+
 
 ``` r
 
